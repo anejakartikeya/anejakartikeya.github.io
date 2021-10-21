@@ -12,7 +12,7 @@ bigimg:
 
 * I am also learning new technologies from [Lucas C. Villa Real](https://researcher.watson.ibm.com/researcher/view.php?person=br-lucasvr) from IBM Research. Lucas is also developer of [GoboLinux](https://lucasvr.gobolinux.org).
 
-  * [Introduction to HDF5](../posts/hdf5-intro)
+  * [Introduction to HDF5](https://github.com/anejakartikeya/hdf5/blob/main/TestHDF5.ipynb)
   
 
 
@@ -52,7 +52,6 @@ Android App: [https://apk.support/app/appinventor.ai_KartikeyaAneja.LogoQuiz_Kar
 I developed LogoQuiz App in 2014 using [MIT App Inventor](https://appinventor.mit.edu)
 
 * The app shows logos to be guessed with 4 Multiple choice answers for each Question!!!
-
 
 
 
