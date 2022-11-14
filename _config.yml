@@ -23,13 +23,13 @@ description: Jerudong International School
 
 # List of links in the navigation bar
 navbar-links:
-  Projects: "Projects"
-  Competitions: "Competitions"
-  Extra Curricular: "ECA"
+  Projects: "projects"
+  Competitions: "academics"
+  Extra Curricular: "eca"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-#avatar: "/img/avatar-icon.png"
+#
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -41,11 +41,11 @@ navbar-links:
 # has a white background. You can specify a different background colour or a background image
 # for the navigation bar, the main page, and the footer.
 # navbar-col: "orange"
-# navbar-img: "/img/bgimage.png"
+# navbar-img: "/img/bannerIMG/Background1.jpeg"
 # footer-col: "blue"
-# footer-img: "/img/bgimage.png"
+# footer-img: "/img/bannerIMG/Background1.jpeg"
 # page-col: "#FF0000"
-# page-img: "/img/bgimage.png"
+# page-img: ""/img/bannerIMG/Background1.jpeg"
 
 # --- Footer options --- #
 
