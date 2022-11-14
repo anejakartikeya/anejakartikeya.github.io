@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Projects
-permalink: /projects
+permalink: /Projects
 bigimg:
-  - "/img/big-img/Background3.jpeg"
+  - "/img/bannerIMG/Projects.jpeg"
 ---
 
 # Steganography

@@ -3,28 +3,32 @@ layout: page
 title: Extra Curricular
 permalink: /eca
 bigimg:
-  - "/img/big-img/Background2.jpeg"
+  - "/img/bannerIMG/ECA.jpeg"
 ---
 
 
 
 
 
-| [The Duke of Edinburgh's Internatiional Award - Bronze Standard](https://dofehillary.org.nz/bronze)<br>    Six Months Service: Voluntary Service, Skills, Physical Recreation and  an Adventurous Journey |
-| ------------------------------------------------------------ |
-| ![](images/duke.jpg)                                         |
-
-<br>
-
-| Participated in [AI for Good Hackathon Brunei, 2020](https://www.teensinai.com/brunei/) |
+| [The Duke of Edinburgh's Bronze Award](https://dofehillary.org.nz/bronze)<br>    Six Months of Voluntary Service, Learning new Skills, Physical Recreation and an Adventurous Journey |
 | :----------------------------------------------------------: |
-|              ![hackathon](images/hackathon.jpg)              |
-
-<br>
+|                     ![](images/duke.jpg)                     |
 
 
 
-## Participated in South East Asian Mathematics Competition (SEAMC) 2016, Manila
+# [Code Academy Courses](https://www.codecademy.com/)
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A big breakfast with some big maths problems! That’s how the <a href="https://twitter.com/hashtag/JISBrunei?src=hash&amp;ref_src=twsrc%5Etfw">#JISBrunei</a> <a href="https://twitter.com/hashtag/maths?src=hash&amp;ref_src=twsrc%5Etfw">#maths</a> team started their first day at <a href="https://twitter.com/hashtag/SEAMC18?src=hash&amp;ref_src=twsrc%5Etfw">#SEAMC18</a> <a href="https://twitter.com/hashtag/girlslovemathstoo?src=hash&amp;ref_src=twsrc%5Etfw">#girlslovemathstoo</a> <a href="https://t.co/pMzw2PZyXI">pic.twitter.com/pMzw2PZyXI</a></p>&mdash; Jerudong International School (@JISBrunei) <a href="https://twitter.com/JISBrunei/status/969446492866953216?ref_src=twsrc%5Etfw">March 2, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+* ## [Statistics with Numpy](https://www.codecademy.com/profiles/coursePro51225/certificates/43135f7494712f4c3b1ced1a55be7be1)
+
+![ca_numpy](../images/ca_numpy.jpg)
+
+* ## [Data Visualization with Python](https://www.codecademy.com/profiles/coursePro51225/certificates/860af2d9669986c16383635c3a16d4aa)
+
+![img](../images/ca_data_viz.jpg)
+
+* ## [C++](https://www.codecademy.com/profiles/KartikeyaAneja/certificates/b74a2390dfc4127fa5d43fe147425ad0)
+
+![img](../images/ca_cpp.png)
+
+
 
