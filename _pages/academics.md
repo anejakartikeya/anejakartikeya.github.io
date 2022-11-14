@@ -3,7 +3,7 @@ layout: page
 title: Academics
 permalink: /academics
 bigimg:
-  - "/img/big-img/eggs.png"
+  - "/img/big-img/Background1.jpeg"
 ---
 
 

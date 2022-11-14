@@ -3,7 +3,7 @@ layout: page
 title: Extra Curricular
 permalink: /eca
 bigimg:
-  - "/img/big-img/seakeeper_wide.jpg"
+  - "/img/big-img/Background2.jpeg"
 ---
 
 
