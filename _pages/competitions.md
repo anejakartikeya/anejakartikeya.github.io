@@ -1,7 +1,7 @@
 ---
 layout: page
-title: academics
-permalink: /academics
+title: Competitions
+permalink: /competitions
 bigimg:
   - "/img/big-img/Competitions.jpeg"
 
