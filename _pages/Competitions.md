@@ -2,7 +2,7 @@
 layout: page
 title: Competitions
 permalink: /academics
-bigimg:
+bannerIMG:
   - "/img/bannerIMG/Competitions.jpeg"
 
 ---
