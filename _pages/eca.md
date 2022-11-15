@@ -2,8 +2,8 @@
 layout: page
 title: Extra Curricular
 permalink: /eca
-bannerIMG:
-  - "/img/bannerIMG/ECA.jpeg"
+bigimg:
+  - "/img/big-img/ECA.jpeg"
 ---
 
 

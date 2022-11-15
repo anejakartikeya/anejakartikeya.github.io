@@ -2,8 +2,8 @@
 layout: page
 title: Projects
 permalink: /projects
-bannerIMG:
-  - "/img/bannerIMG/Projects.jpeg"
+bigimg:
+  - "/img/big-img/Projects.jpeg"
 ---
 
 # Steganography

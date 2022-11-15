@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Competitions
-permalink: /academics
-bannerIMG:
-  - "/img/bannerIMG/Competitions.jpeg"
+permalink: /competitions
+bigimg:
+  - "/img/big-img/Competitions.jpeg"
 
 ---
 

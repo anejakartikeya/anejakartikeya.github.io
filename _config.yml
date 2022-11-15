@@ -41,11 +41,11 @@ navbar-links:
 # has a white background. You can specify a different background colour or a background image
 # for the navigation bar, the main page, and the footer.
 # navbar-col: "orange"
-# navbar-img: "/img/bannerIMG/Background1.jpeg"
+# navbar-img: "/img/big-img/Background1.jpeg"
 # footer-col: "blue"
-# footer-img: "/img/bannerIMG/Background1.jpeg"
+# footer-img: "/img/big-img/Background1.jpeg"
 # page-col: "#FF0000"
-# page-img: ""/img/bannerIMG/Background1.jpeg"
+# page-img: ""/img/big-img/Background1.jpeg"
 
 # --- Footer options --- #
 
