@@ -23,6 +23,7 @@ description: University of Wisconsin - Madison
 
 # List of links in the navigation bar
 navbar-links:
+  Home: "https://anejakartikeya.github.io"
   Education: "education"
   Projects: "projects"
   Extra Curricular: "eca"
