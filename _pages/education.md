@@ -12,17 +12,17 @@ bigimg:
 * Awarded Paul H Thiele Scholarship from the College of Engineering scholarship for 2024-2025
 
 * ECE/CS  Courses
-  * COMP SCI 220 - Data Science Programming I (Python) (Grade A)
-  * COMP SCI 200 - Programming I (Java) (Grade A)
-  * COMP SCI 300 - Programming II (Java) (Grade A)
-  * ECE 203 - Signals, Information, and Computation (MATLAB) (Grade A)
-  * ECE 204 - Data Science and Engineering (Machine learning in Python) (Grade A)
-  * ECE 210 - Introduction to Electrical Engineering (Grade A)
-  * ECE 252 - Introduction to Computer Engineering (Assembly) (Grade A)
-  * ECE 230 - Circuit Analysis (Grade AB)
-  * ECE 352 - Digital System Fundamentals (Grade A)
-  * COMP SCI 240 Introduction to Discrete Mathematics (Grade A)
-  * COMP SCI 400 - Programming III (Advanced data structures in Java) (Grade AB)
+  * COMP SCI 220 - Data Science Programming I (Python)
+  * COMP SCI 200 - Programming I (Java)
+  * COMP SCI 300 - Programming II (Java)
+  * ECE 203 - Signals, Information, and Computation (MATLAB)
+  * ECE 204 - Data Science and Engineering (Machine learning in Python)
+  * ECE 210 - Introduction to Electrical Engineering
+  * ECE 252 - Introduction to Computer Engineering (Assembly)
+  * ECE 230 - Circuit Analysis
+  * ECE 352 - Digital System Fundamentals
+  * COMP SCI 240 Introduction to Discrete Mathematics
+  * COMP SCI 400 - Programming III (Advanced data structures in Java)
 
 ### Udacity
 * Full Stack Web Development Nanodegree Program, Passed 2024
