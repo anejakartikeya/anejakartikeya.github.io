@@ -6,6 +6,51 @@ bigimg:
   - "/img/big-img/Projects.jpeg"
 ---
 
+
+## Developing a Handwritten Digits Classifier with PyTorch, 08/2024
+* Preprocessed the MNIST dataset for handwritten digit recognition, build a neural network, train and test the neural network
+
+## Capstone Project, Full Stack Developer Nanodegree, 08/2024
+* Constructed a database-backed web API with user access control. 
+* Built API endpoints for the application and secured them for use in front end web application. 
+
+## Deploying a Flask App to Kubernetes Using EKS, 07/2024
+* Created a container for Flask web app using Docker and deployed the container to a Kubernetes cluster using Amazon EKS. 
+* Use automated testing to prevent bad code from being deployed and monitor their app’s performance using AWS tools. 
+
+## Identity Access Management, 07/2024
+* Built the backend for a coffee shop application. 
+*	Added user accounts and authentication and used role-based access management strategies to control different types of user behavior in the app. 
+
+## Trivia API, 07/2024
+* The app can search for trivia questions and answers via category and difficulty. 
+* Added new questions. 
+* Modify the difficulty rating of questions. 
+
+
+## Design a Venue Booking Database, 07/2024
+* Developed artist/venue booking application for a fictitious startup Fy-yur. 
+* Used SQLAlchemy and PostgreSQL, enabling artist and venue management, including sign-ups, availability listings, and browsing options for bookings.
+
+## Resiliency Enhancement, 05/2024
+* Collaborated with a PhD student to support his project for Sandia Laboratories,
+* Focused on Machine Learning analysis of a dataset measuring the accuracy of a processing unit under various types of attacks
+
+## Some Projects at UW Madison during BS, 2023
+* Projects implementing Data Cleaning, Standardizing Data, K-Means, PCA Analysis, K-Nearest Neighbor, Decision Tree, Linear and Multiple variable Regression, Polynomial Regression (Python)
+* Implemented RedBlack Tree data structure (Java)
+* Developed a simple music app utilizing RedBlack Trees for data storage (Java)
+* Implemented Dijkstra's Algorithm (Java)
+* Developed a hash table data structure (Java)
+* Hospital priority queue system functionality (Java)
+* GUI project featuring an animated walking man (Java)
+* Simple GUI project game (Java)
+* Twitter feed functionality: create tweets, like, retweet, maintain chronological order using linked list (Java)
+* Password cracking: implementation with min/max heap of common passwords prioritized for cracking (Java)
+* Implemented Full Adder, Ripple Carry Adder, Encoders, Decoders, Comparator, Waveform Detectors, BCD Adders, BCD Subtractor (Verilog)
+
+
+
 # Steganography
 
 ​	[Github with Jupyter Notebook](https://github.com/anejakartikeya/steganography)
