@@ -7,14 +7,14 @@ bigimg:
 ---
 
 
-## Developing a Handwritten Digits Classifier with PyTorch, 08/2024
+## Developed a Handwritten Digits Classifier with PyTorch, 08/2024
 * Preprocessed the MNIST dataset for handwritten digit recognition, build a neural network, train and test the neural network
 
 ## Capstone Project, Full Stack Developer Nanodegree, 08/2024
 * Constructed a database-backed web API with user access control. 
 * Built API endpoints for the application and secured them for use in front end web application. 
 
-## Deploying a Flask App to Kubernetes Using EKS, 07/2024
+## Deployed a Flask App to Kubernetes Using EKS, 07/2024
 * Created a container for Flask web app using Docker and deployed the container to a Kubernetes cluster using Amazon EKS. 
 * Use automated testing to prevent bad code from being deployed and monitor their app’s performance using AWS tools. 
 
