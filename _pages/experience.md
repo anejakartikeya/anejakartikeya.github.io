@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Extra Curricular
+title: Experience
 permalink: /experience
 bigimg:
   - "/img/big-img/ECA.jpeg"
